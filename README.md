@@ -1,6 +1,10 @@
 # Ruby_Toolbox
 A Collection of Tools I have used for a variety of projects.
 
+** This file was never intended to be ran by itself. **
+** It was inteded to be loaded by irb with 'irb -r path_to_file' and used in an interpreter**
+
+
 You will notice a lot of extremely small functions here that are mainly used for the following:
   1. Providing easier coding which is based on habits from other languages (Python Helpers)
   2. Automating certain tasks
